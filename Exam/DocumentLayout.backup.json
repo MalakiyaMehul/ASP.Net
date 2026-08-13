@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|c:\\users\\student\\source\\repos\\mehul_92500584004\\mehul_92500584004\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|solutionrelative:mehul_92500584004\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|c:\\users\\student\\source\\repos\\mehul_92500584004\\mehul_92500584004\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|solutionrelative:mehul_92500584004\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|c:\\users\\student\\source\\repos\\mehul_92500584004\\mehul_92500584004\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|solutionrelative:mehul_92500584004\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|c:\\users\\student\\source\\repos\\mehul_92500584004\\mehul_92500584004\\registrationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|solutionrelative:mehul_92500584004\\registrationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|c:\\users\\student\\source\\repos\\mehul_92500584004\\mehul_92500584004\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{15A802AA-8795-4FF7-8097-92767C335172}|Mehul_92500584004\\Mehul_92500584004.csproj|solutionrelative:mehul_92500584004\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "Mehul_92500584004\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\LoginPage.aspx.cs",
+              "RelativeToolTip": "Mehul_92500584004\\LoginPage.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:50:31.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Mehul_92500584004\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\Site1.Master.cs",
+              "RelativeToolTip": "Mehul_92500584004\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:41:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationPage.aspx",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\RegistrationPage.aspx",
+              "RelativeDocumentMoniker": "Mehul_92500584004\\RegistrationPage.aspx",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\RegistrationPage.aspx",
+              "RelativeToolTip": "Mehul_92500584004\\RegistrationPage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T04:31:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\Site1.Master",
+              "RelativeDocumentMoniker": "Mehul_92500584004\\Site1.Master",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\Site1.Master",
+              "RelativeToolTip": "Mehul_92500584004\\Site1.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T04:30:47.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "Mehul_92500584004\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Mehul_92500584004\\Mehul_92500584004\\LoginPage.aspx",
+              "RelativeToolTip": "Mehul_92500584004\\LoginPage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-13T04:19:51.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
